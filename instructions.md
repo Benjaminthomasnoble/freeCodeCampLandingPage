@@ -1,8 +1,8 @@
 
     
-    - Your product landing page should have a header element with a corresponding id="header"
+    <!-- - Your product landing page should have a header element with a corresponding id="header" -->
     
-    - You can see an image within the header element with a corresponding id="header-img" (A logo would make a good image here)
+    <!-- - You can see an image within the header element with a corresponding id="header-img" (A logo would make a good image here) -->
     
     - Within the #header element, you can see a nav element with a corresponding id="nav-bar"
     
